@@ -1,3 +1,5 @@
+# NOT : Bütün servisleri kullanırken istenilen parametrelere ek olarak her seferinde istenilen servisin auth bilgilerini de parametre olarak göndermelisiniz.
+
 # Türkçe
 
 # Ulusal Sağlık Sistemi Laravel Entegrsayonu
