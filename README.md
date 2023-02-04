@@ -1,6 +1,4 @@
 
-# Türkçe
-
 # Ulusal Sağlık Sistemi Laravel Entegrsayonu
 Merhaba, Ulusal Sağlık Sistemi için geliştirmiş olduğum laravel entegrasyonu. 04.02.2023 tarihi itibari ile bütün servisleri içermektedir. 
 https://ussservis.saglik.gov.tr/ adresinde bulunan bütün endpointleri içermektedir. 
