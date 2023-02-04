@@ -1,4 +1,3 @@
-# NOT : Bütün servisleri kullanırken istenilen parametrelere ek olarak her seferinde istenilen servisin auth bilgilerini de parametre olarak göndermelisiniz.
 
 # Türkçe
 
@@ -24,6 +23,8 @@ Bize servis response döndürüyor
 
 
 Sadece USS dokumantasyonunda ihtiyaç duyduğunuz methodu ve parametrelerini girerek entegrasyon işleminizi yapabilirsiniz.
+
+## NOT : Bütün servisleri kullanırken istenilen parametrelere ek olarak her seferinde istenilen servisin auth bilgilerini de parametre olarak göndermelisiniz.
 
 
 
