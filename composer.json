@@ -1,0 +1,24 @@
+{
+    "name": "adema/adem-health-integration",
+    "description": "USS service integration",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adema\\AdemHealthIntegration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adem ALKAN"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Adema\\AdemHealthIntegration\\Providers\\AdemHealthIntegrationServiceProvider"
+            ]
+        }
+    }
+}
